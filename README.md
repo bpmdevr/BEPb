@@ -18,7 +18,6 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am++;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 
 
 <!--   my-kaggle     
@@ -46,9 +45,9 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![Github activity graph](https://raw.githubusercontent.com/bpmdevr/bpmdevr/output/github-contribution-grid-snake.svg)
+![Github activity graph](https://raw.githubusercontent.com/bpmdevr/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
-| Stats                                                                                                                                       | Most Used Languages                                                                                                                         |
+| Stats                                                                                                                                       | Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Github stats](https://github-readme-stats.vercel.app/api?username=bpmdevr&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bpmdevr&theme=radical&layout=compact) |
 
@@ -56,17 +55,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpmdevr"></img>
 
 <!-- dark snake -->
-![Github activity graph](https://raw.githubusercontent.com/bpmdevr/bpmdevr/output/github-contribution-grid-snake-dark.svg)
+![Github activity graph](https://raw.githubusercontent.com/bpmdevr/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=bpmdevr" width="auto"></img>
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bpmdevr&show-other-skills=true" width="auto"></img>
 
 
 #### Thanks for visiting :heart:
@@ -75,7 +70,7 @@
 <img src="https://profile-counter.glitch.me/bpmdevr/count.svg">  
 
 counting of visitors to this page in this section 
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/fVK1"><img src="https://s01.flagcounter.com/count2/fVK1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 ## Star History
